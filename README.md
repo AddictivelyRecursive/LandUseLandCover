@@ -1,25 +1,21 @@
 # LandUseLandCover
-LandUseLandCover
-
 A comprehensive project for the classification, correction, and ensemble of land use and land cover data using advanced image analysis and machine learning techniques.
 
 Table of Contents
 
-Overview
+1. Overview
 
-Project Structure
+2. Project Structure
 
-Setup Instructions
+3. Setup Instructions
 
-Notebooks Overview
+4. Notebooks Overview
 
-Results and Insights
+5. Results and Insights
 
-Contributing
 
-License
 
-Overview
+#Overview
 
 This project focuses on the classification of land use and land cover using satellite or drone imagery. It includes methods for:
 
@@ -31,7 +27,7 @@ Leveraging ensemble techniques for improved predictions.
 
 Visualization of results for better interpretability.
 
-Project Structure
+#Project Structure
 
 LandUseLandCover/
 |
@@ -49,7 +45,7 @@ LandUseLandCover/
 |-- requirements.txt       # Python dependencies
 |-- LICENSE                # License information
 
-Setup Instructions
+#Setup Instructions
 
 Prerequisites
 
@@ -77,7 +73,7 @@ pip install -r requirements.txt
 
 Run the notebooks step-by-step as per the workflow.
 
-Notebooks Overview
+#Notebooks Overview
 
 1. Image Processing
 
@@ -129,25 +125,10 @@ Display classified images before and after corrections.
 
 Visualize ensemble outputs for better interpretability.
 
-Results and Insights
+#Results and Insights
 
 Accuracy: Achieved an overall accuracy of XX% using ensemble methods.
 
 Visualization: Classified images with clear distinctions between land use types.
 
 Efficiency: Improved classification speed by optimizing preprocessing steps.
-
-Contributing
-
-We welcome contributions! To get started:
-
-Fork the repository.
-
-Create a new branch.
-
-Make your changes and submit a pull request.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
