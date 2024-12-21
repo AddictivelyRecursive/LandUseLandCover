@@ -15,7 +15,7 @@ Table of Contents
 
 
 
-#Overview
+# Overview
 
 This project focuses on the classification of land use and land cover using satellite or drone imagery. It includes methods for:
 
@@ -27,7 +27,7 @@ Leveraging ensemble techniques for improved predictions.
 
 Visualization of results for better interpretability.
 
-#Project Structure
+# Project Structure
 
 LandUseLandCover/
 |
@@ -45,7 +45,7 @@ LandUseLandCover/
 |-- requirements.txt       # Python dependencies
 |-- LICENSE                # License information
 
-#Setup Instructions
+# Setup Instructions
 
 Prerequisites
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 Run the notebooks step-by-step as per the workflow.
 
-#Notebooks Overview
+# Notebooks Overview
 
 1. Image Processing
 
@@ -125,7 +125,7 @@ Display classified images before and after corrections.
 
 Visualize ensemble outputs for better interpretability.
 
-#Results and Insights
+# Results and Insights
 
 Accuracy: Achieved an overall accuracy of XX% using ensemble methods.
 
